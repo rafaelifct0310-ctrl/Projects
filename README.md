@@ -12,3 +12,7 @@ copia este modulo en la siguiente ubicación: "odoo@192.168.1.73:/opt/odoo/odoo/
 ```
 /opt/odoo/odoo/odoo-bin -c /etc/odoo/odoo.conf -i solicitud_interna -d odoo19 --stop-after-init
 ```
+
+```
+git init
+```
